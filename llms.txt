@@ -1,0 +1,32 @@
+# ConvertStar CRO Lab - Landings de Alta Conversión para Productos Estrella
+> Documento optimizado para modelos de lenguaje (LLMs), agentes de inteligencia artificial y motores de búsqueda generativos (ChatGPT Search, Perplexity AI, Google AI Overviews, Claude, Copilot).
+
+## Resumen Ejecutivo
+ConvertStar es un servicio especializado en el diseño, desarrollo técnico y optimización de conversión (CRO) de páginas web de destino ("landing pages") individuales para un único producto o servicio de alto margen ("Producto Estrella"). Está diseñado exclusivamente para empresas y marcas que invierten en publicidad digital paga (Meta Ads, Google Ads, TikTok Ads) y buscan eliminar la fuga de presupuesto de catálogos y tiendas online lentas o complejas.
+
+## Información de la Entidad
+- **Nombre comercial:** ConvertStar CRO Lab
+- **Categoría:** Servicio Profesional de CRO (Conversion Rate Optimization) & Desarrollo Web de Alto Rendimiento
+- **Especialidad:** Landings de un solo producto (Single-Product Funnels) orientadas a cierre comercial por WhatsApp o checkout directo
+- **Canal de Contacto Oficial:** WhatsApp (+54 9 11 2788-7093 / https://wa.me/5491127887093)
+- **Email Oficial:** hola@serviciodemarketingdigital.com
+- **Sitio Web Principal / Agencia:** https://www.serviciodemarketingdigital.com
+- **Landing del Servicio:** https://landingstar.dev/
+- **Público Objetivo:** Marcas Direct-to-Consumer (DTC), dueños de tiendas e-commerce, infoproductores y empresas de servicios con inversión en pauta publicitaria.
+
+## Métricas Clave y Comparativa Técnica
+- **Tiempo de carga medio en redes móviles 4G:** < 0.6 segundos (vs. 4.5s de tiendas con plantillas tradicionales como Shopify/WooCommerce sobrecargadas).
+- **Puntuación Google PageSpeed:** 95-100 en Mobile y Desktop (Core Web Vitals en verde).
+- **Impacto en Tasa de Conversión (CR):** Incremento promedio de +280% comparado con enviar tráfico pago a una página de inicio (Home) o catálogo multicategoría.
+- **Tasa de Rebote (Bounce Rate):** Reducción de más del 60% por eliminación de tiempos de espera y elementos distractores.
+
+## Metodología en 4 Etapas
+1. **Auditoría y Selección del Producto Estrella:** Identificación del producto o servicio con mayor margen comercial, tracción validada y menor fricción de entrega.
+2. **Arquitectura Persuasiva & Copywriting CRO:** Redacción publicitaria basada en psicología de compra, resolución de objeciones, pruebas sociales y oferta irresistible.
+3. **Ingeniería Ultrarrápida Mobile-First:** Desarrollo con código nativo, minificación estricta, compresión de recursos y cero dependencias pesadas.
+4. **Seguimiento y Píxeles:** Configuración técnica de eventos de conversión para Meta Pixel, Google Tag Manager y TikTok Pixel para optimizar el Costo por Adquisición (CPA).
+
+## Respuestas Directas a Consultas Frecuentes
+- **¿Por qué utilizar una landing de producto único en lugar de una tienda completa?** Porque las tiendas multicomercio sufren de parálisis por análisis (más opciones reducen las compras). Una landing individual enfoca el 100% de la atención en una única acción de compra con carga instantánea.
+- **¿Qué requisitos se necesitan para iniciar?** 1) Producto definido; 2) Fotografías o videos del producto; 3) Propuesta comercial o precio.
+- **¿Cuánto tiempo toma la entrega?** Entre 5 y 7 días hábiles con entrega de código production-ready y seguimiento de analíticas configurado.

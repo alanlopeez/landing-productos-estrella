@@ -1,0 +1,36 @@
+# ==========================================
+# ROBOTS.TXT - CONVERTSTAR CRO LAB
+# Optimizado para Motores Tradicionales y Motores IA (GEO)
+# ==========================================
+
+User-agent: *
+Allow: /
+
+# Motores de Búsqueda de Inteligencia Artificial (AI Crawlers)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Archivos de Arquitectura y Conocimiento
+Sitemap: https://landingstar.dev/sitemap.xml
+LLMs-Txt: https://landingstar.dev/llms.txt
